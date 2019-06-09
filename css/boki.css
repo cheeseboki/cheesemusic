@@ -1,0 +1,47 @@
+*{
+  background: #
+}
+
+.one{
+  width: auto;
+  height: auto;
+  padding: 5px;
+}
+
+.IBOY{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.IBOY img{
+  width: 35%;
+  margin-bottom: 15px;
+}
+
+body{
+  background: #edeef0;
+}
+
+.me{
+  background-color: #fff;
+  padding: 10px;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+.one h1{
+  font-size: 50px;
+
+}
+
+
+.Flash{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.Flash img{
+  width: 35%;
+  margin-bottom: 15px;
+}
