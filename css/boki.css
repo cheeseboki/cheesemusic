@@ -1,28 +1,46 @@
-*{
-  background: #
+body{
+  background: #fffff0;
 }
 
 .one{
   width: auto;
   height: auto;
   padding: 5px;
+
+}
+
+.one{
+  background: #fff;
 }
 
 .IBOY{
-  width: 90%;
-  margin: 0 auto;
+  width: auto;
+  margin: 8px 8px;
+  background: #fff;
+  border-radius: 10px;
 }
 
 .IBOY img{
-  width: 35%;
+  width: 300px;
   margin-bottom: 15px;
 }
 
-body{
-  background: #edeef0;
+
+.Flash{
+  width: auto;;
+  margin: 8px 8px;
+  background: #fff;
+  border-radius: 10px;
 }
 
-.me{
+.Flash img{
+  width: 280px;
+  margin-bottom: 3px;
+  margin-bottom : 13px;
+}
+
+
+me{
   background-color: #fff;
   padding: 10px;
   width: 90%;
@@ -35,13 +53,16 @@ body{
 
 }
 
-
-.Flash{
-  width: 90%;
-  margin: 0 auto;
+.hr{
+  color: #fff;
 }
 
-.Flash img{
-  width: 35%;
-  margin-bottom: 15px;
+.me h5{
+  margin-bottom: 3px;
+  margin-top: 20px；
 }
+
+.me h3{
+  margin-bottom: 2px；
+}
+
